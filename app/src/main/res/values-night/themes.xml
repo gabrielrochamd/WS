@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.WS" parent="android:Theme.Black" />
+</resources>
